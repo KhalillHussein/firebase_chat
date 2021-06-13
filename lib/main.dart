@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: '#Чатик',
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         canvasColor: Color(0xFFf1faee),
         backgroundColor: Color(0xFF457b9d),

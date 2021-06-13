@@ -1,16 +1,17 @@
-# firebase_chat_app
+<h1 align="center">Chat App</h1>
+<h3 align="center">Simple chat with Firebase Services</h3>
 
-A new Flutter application.
 
-## Getting Started
+### About the project
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KhalillHussein/weight-tracker/main/images/login.png" width="256" hspace="4">
+  <img src="https://raw.githubusercontent.com/KhalillHussein/weight-tracker/main/preview/register.png" width="256" hspace="4">
+  <img src="https://raw.githubusercontent.com/KhalillHussein/weight-tracker/main/preview/chat.png" width="256" hspace="4">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## Built with
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Flutter](https://flutter.dev/) - Beautiful native apps in record time.
+- [Android Studio](https://developer.android.com/studio/index.html/) - Code editing. Tools for building apps on every type of Android device.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
