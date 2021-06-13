@@ -2,8 +2,6 @@
 <h3 align="center">Simple chat with Firebase Services</h3>
 
 
-### About the project
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/KhalillHussein/firebase_chat/master/images/register.png" width="256" hspace="4">
   <img src="https://raw.githubusercontent.com/KhalillHussein/firebase_chat/master/images/login.png" width="256" hspace="4">
